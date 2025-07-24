@@ -1,0 +1,6 @@
+flask
+pymupdf
+google-generativeai
+fpdf
+unidecode
+python-docx
