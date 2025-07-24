@@ -20,7 +20,7 @@ An intelligent web application that ranks resumes based on a job description usi
 - **Backend**: Flask (Python)
 - **Frontend**: HTML, CSS, Vanilla JS
 - **AI**: Gemini
-- **PDF Extraction**: `PyMuPDF`
+- **PDF Parsing**: `PyMuPDF`
 - **PDF Report**: `FPDF`
 - **Streaming**: Server-Sent Events (SSE)
 
